@@ -16,3 +16,7 @@
 Воспользуйтесь готовым файлом `App.js` и стилями `css/index.css` из каталога в качестве отправной точки. Замените ими те, что создаются в create-react-app.
 
 Для работы с датой и временем можете воспользоваться библиотекой Moment.js.
+
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/u2n5jatymkpkhq75/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-hoc-time/branch/main)
